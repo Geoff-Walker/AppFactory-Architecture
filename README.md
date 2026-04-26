@@ -146,4 +146,4 @@ The portfolio site at [geoff-walker.uk](https://geoff-walker.uk) was built along
 ## About
 
 Built by [Geoff Walker](https://geoff-walker.uk) — AI Systems Engineer.  
-[LinkedIn](https://linkedin.com/in/geoff-walker-ai) · [FamilyCookbook](https://github.com/Geoff-Walker/FamilyCookbook)
+[LinkedIn](https://www.linkedin.com/in/geoff-walker-a3ab02227) · [FamilyCookbook](https://github.com/Geoff-Walker/FamilyCookbook)
