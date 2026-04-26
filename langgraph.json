@@ -1,0 +1,10 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "research_only": "./graphs/research_only.py:graph",
+    "iterative_dev": "./graphs/iterative_dev.py:graph",
+    "qa_batch": "./graphs/qa_batch.py:graph",
+    "infra_task": "./graphs/infra_task.py:graph"
+  },
+  "python_version": "3.12"
+}
